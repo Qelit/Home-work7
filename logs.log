@@ -1,0 +1,424 @@
+2022-04-04 11:24:04,438 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:24:07,210 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-04 11:24:08,088 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:24:19,438 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:25:02,846 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:25:38,979 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:26:01,336 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:26:10,709 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:26:11,986 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-04 11:26:12,596 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:26:22,263 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:26:23,559 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-04 11:26:24,174 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:27:49,467 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:27:52,216 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-04 11:27:52,782 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:40:25,100 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:40:25,992 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-04 11:40:26,566 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:40:43,138 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:40:44,445 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-04 11:40:45,052 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:41:01,433 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:41:28,688 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-04 11:41:30,606 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:46:25,030 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:46:27,786 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-04 11:46:28,655 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:47:43,752 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:47:45,106 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-04 11:47:45,716 INFO SampleTest [main] Драйвер закрыт
+2022-04-04 11:47:59,000 INFO SampleTest [main] Драйвер поднят
+2022-04-04 11:48:21,382 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 12:58:47,158 INFO SampleTest [main] Драйвер поднят
+2022-04-05 12:58:49,580 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 12:58:49,662 INFO SampleTest [main] Открыт каталог
+2022-04-05 12:58:50,475 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 14:33:09,933 INFO SampleTest [main] Драйвер поднят
+2022-04-05 14:33:13,029 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 14:33:13,090 INFO SampleTest [main] Открыт каталог
+2022-04-05 14:33:14,689 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 14:33:25,308 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 14:33:52,203 INFO SampleTest [main] Драйвер поднят
+2022-04-05 14:33:53,473 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 14:34:03,478 INFO SampleTest [main] Открыт каталог
+2022-04-05 14:34:08,389 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 14:54:51,755 INFO SampleTest [main] Драйвер поднят
+2022-04-05 14:54:52,992 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 14:55:03,644 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 14:55:13,867 INFO SampleTest [main] Драйвер поднят
+2022-04-05 14:55:32,178 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 14:55:32,344 INFO SampleTest [main] Открыт каталог
+2022-04-05 14:55:37,158 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 14:55:47,799 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 14:56:11,477 INFO SampleTest [main] Драйвер поднят
+2022-04-05 14:56:13,081 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 14:56:23,585 INFO SampleTest [main] Открыт каталог
+2022-04-05 14:56:29,476 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 14:56:29,502 INFO SampleTest [main] Показать всё
+2022-04-05 14:56:40,212 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:23:02,100 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:23:05,163 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:23:05,226 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:23:06,485 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:23:19,777 INFO SampleTest [main] Показать всё
+2022-04-05 15:23:30,503 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:30:10,946 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:30:12,314 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:30:23,048 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:30:28,060 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:30:28,081 INFO SampleTest [main] Показать всё
+2022-04-05 15:30:38,813 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:30:55,770 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:30:57,072 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:31:08,224 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:31:14,568 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:31:14,587 INFO SampleTest [main] Показать всё
+2022-04-05 15:34:34,369 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:34:52,150 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:34:53,439 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:35:02,671 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:35:07,791 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:35:07,814 INFO SampleTest [main] Показать всё
+2022-04-05 15:35:18,550 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:35:49,657 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:35:50,914 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:36:00,606 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:36:05,467 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:36:05,484 INFO SampleTest [main] Показать всё
+2022-04-05 15:37:49,471 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:38:27,642 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:38:28,934 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:38:39,519 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:38:45,823 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:38:45,840 INFO SampleTest [main] Показать всё
+2022-04-05 15:38:56,617 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:39:52,259 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:39:53,550 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:40:01,727 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:40:06,472 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:40:06,493 INFO SampleTest [main] Показать всё
+2022-04-05 15:46:31,742 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:46:33,025 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:46:44,242 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:46:49,230 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:46:49,246 INFO SampleTest [main] Показать всё
+2022-04-05 15:46:59,970 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:49:23,898 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:49:25,125 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:49:36,478 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:49:42,619 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:49:42,641 INFO SampleTest [main] Показать всё
+2022-04-05 15:49:53,341 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:51:10,958 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:51:12,368 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:51:23,031 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:51:31,121 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:51:32,389 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:51:41,475 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:51:46,495 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:51:46,517 INFO SampleTest [main] Показать всё
+2022-04-05 15:52:20,853 INFO SampleTest [main] Выбран xiaomi
+2022-04-05 15:53:16,590 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:53:17,864 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:53:27,512 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:53:31,534 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:53:31,553 INFO SampleTest [main] Показать всё
+2022-04-05 15:53:32,424 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:55:35,217 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:55:36,459 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:55:47,103 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 15:55:54,439 INFO SampleTest [main] Драйвер поднят
+2022-04-05 15:55:55,751 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 15:56:05,211 INFO SampleTest [main] Открыт каталог
+2022-04-05 15:56:09,481 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 15:56:09,506 INFO SampleTest [main] Показать всё
+2022-04-05 15:56:20,252 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:23:43,890 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:23:46,650 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:23:46,703 INFO SampleTest [main] Открыт каталог
+2022-04-05 16:23:47,887 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 16:24:00,629 INFO SampleTest [main] Показать всё
+2022-04-05 16:24:11,334 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:27:25,797 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:27:27,123 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:27:37,778 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:27:44,647 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:27:45,855 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:27:55,146 INFO SampleTest [main] Открыт каталог
+2022-04-05 16:28:00,353 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 16:28:00,374 INFO SampleTest [main] Показать всё
+2022-04-05 16:28:01,209 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 16:28:15,400 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:29:47,756 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:29:48,592 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:29:59,608 INFO SampleTest [main] Открыт каталог
+2022-04-05 16:30:05,781 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 16:30:05,803 INFO SampleTest [main] Показать всё
+2022-04-05 16:30:06,523 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 16:30:08,704 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:30:46,885 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:30:48,136 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:30:58,777 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:31:04,784 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:31:06,088 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:31:16,733 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:31:24,151 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:31:25,487 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:31:36,548 INFO SampleTest [main] Открыт каталог
+2022-04-05 16:31:42,543 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 16:31:42,566 INFO SampleTest [main] Показать всё
+2022-04-05 16:31:43,237 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 16:32:53,207 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:57:10,881 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:57:12,209 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:57:22,851 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:57:29,031 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:57:30,284 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:57:39,676 INFO SampleTest [main] Открыт каталог
+2022-04-05 16:57:44,426 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 16:57:55,090 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 16:58:10,967 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:58:12,276 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:58:19,822 INFO SampleTest [main] Открыт каталог
+2022-04-05 16:58:24,895 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 16:58:24,913 INFO SampleTest [main] Показать всё
+2022-04-05 16:58:25,563 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 16:58:26,298 INFO SampleTest [main] Выбран xiaomi
+2022-04-05 16:58:26,370 INFO SampleTest [main] В поиск введен realme
+2022-04-05 16:59:37,224 INFO SampleTest [main] Драйвер поднят
+2022-04-05 16:59:38,475 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 16:59:47,365 INFO SampleTest [main] Открыт каталог
+2022-04-05 16:59:52,069 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 16:59:52,082 INFO SampleTest [main] Показать всё
+2022-04-05 16:59:52,765 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 16:59:53,526 INFO SampleTest [main] Выбран xiaomi
+2022-04-05 16:59:53,623 INFO SampleTest [main] В поиск введен realme
+2022-04-05 16:59:54,330 INFO SampleTest [main] Выбран realme
+2022-04-05 16:59:54,472 INFO SampleTest [main] Сортировка по цене
+2022-04-05 17:00:05,141 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 17:01:16,389 INFO SampleTest [main] Драйвер поднят
+2022-04-05 17:01:17,708 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 17:01:26,804 INFO SampleTest [main] Открыт каталог
+2022-04-05 17:01:31,616 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 17:01:31,632 INFO SampleTest [main] Показать всё
+2022-04-05 17:01:32,364 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 17:01:33,099 INFO SampleTest [main] Выбран xiaomi
+2022-04-05 17:01:33,195 INFO SampleTest [main] В поиск введен realme
+2022-04-05 17:01:33,917 INFO SampleTest [main] Выбран realme
+2022-04-05 17:01:34,055 INFO SampleTest [main] Сортировка по цене
+2022-04-05 17:01:44,698 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 17:30:07,735 INFO SampleTest [main] Драйвер поднят
+2022-04-05 17:30:10,671 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 17:30:10,729 INFO SampleTest [main] Открыт каталог
+2022-04-05 17:30:12,049 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 17:30:22,707 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 17:30:29,418 INFO SampleTest [main] Драйвер поднят
+2022-04-05 17:30:30,663 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 17:30:38,662 INFO SampleTest [main] Открыт каталог
+2022-04-05 17:30:43,519 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 17:30:43,541 INFO SampleTest [main] Показать всё
+2022-04-05 17:30:44,061 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 17:30:44,796 INFO SampleTest [main] Выбран xiaomi
+2022-04-05 17:30:44,885 INFO SampleTest [main] В поиск введен realme
+2022-04-05 17:30:45,618 INFO SampleTest [main] Выбран realme
+2022-04-05 17:30:45,756 INFO SampleTest [main] Сортировка по цене
+2022-04-05 17:30:47,484 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 17:54:14,871 INFO SampleTest [main] Драйвер поднят
+2022-04-05 17:54:16,148 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 17:54:23,627 INFO SampleTest [main] Открыт каталог
+2022-04-05 17:54:28,001 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 17:54:38,668 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 17:58:30,777 INFO SampleTest [main] Драйвер поднят
+2022-04-05 17:58:31,905 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 17:58:43,092 INFO SampleTest [main] Открыт каталог
+2022-04-05 17:58:49,386 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 17:58:49,411 INFO SampleTest [main] Показать всё
+2022-04-05 17:58:49,835 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 17:58:50,569 INFO SampleTest [main] Выбран xiaomi
+2022-04-05 17:58:50,659 INFO SampleTest [main] В поиск введен realme
+2022-04-05 17:58:51,286 INFO SampleTest [main] Выбран realme
+2022-04-05 17:58:51,521 INFO SampleTest [main] Сортировка по цене
+2022-04-05 17:58:53,355 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 17:59:08,475 INFO SampleTest [main] Драйвер поднят
+2022-04-05 17:59:09,580 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 17:59:20,222 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 17:59:27,370 INFO SampleTest [main] Драйвер поднят
+2022-04-05 17:59:28,473 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 17:59:36,295 INFO SampleTest [main] Открыт каталог
+2022-04-05 17:59:40,906 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 17:59:51,547 INFO SampleTest [main] Драйвер закрыт
+2022-04-05 18:00:03,356 INFO SampleTest [main] Драйвер поднят
+2022-04-05 18:00:04,476 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 18:00:13,075 INFO SampleTest [main] Открыт каталог
+2022-04-05 18:00:17,387 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 18:00:17,404 INFO SampleTest [main] Показать всё
+2022-04-05 18:00:18,018 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 18:00:18,764 INFO SampleTest [main] Выбран xiaomi
+2022-04-05 18:00:18,851 INFO SampleTest [main] В поиск введен realme
+2022-04-05 18:00:19,579 INFO SampleTest [main] Выбран realme
+2022-04-05 18:00:19,869 INFO SampleTest [main] Сортировка по цене
+2022-04-05 18:03:09,360 INFO SampleTest [main] Драйвер поднят
+2022-04-05 18:03:10,520 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-05 18:03:18,258 INFO SampleTest [main] Открыт каталог
+2022-04-05 18:03:23,556 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-05 18:03:23,578 INFO SampleTest [main] Показать всё
+2022-04-05 18:03:24,090 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-05 18:03:24,839 INFO SampleTest [main] Выбран xiaomi
+2022-04-05 18:03:24,924 INFO SampleTest [main] В поиск введен realme
+2022-04-05 18:03:25,652 INFO SampleTest [main] Выбран realme
+2022-04-05 18:03:25,807 INFO SampleTest [main] Сортировка по цене
+2022-04-05 18:03:29,580 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 09:24:23,657 INFO SampleTest [main] Драйвер поднят
+2022-04-06 09:24:26,327 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 09:24:26,403 INFO SampleTest [main] Открыт каталог
+2022-04-06 09:24:27,694 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 09:24:51,198 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 09:25:10,826 INFO SampleTest [main] Драйвер поднят
+2022-04-06 09:25:12,019 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 09:25:20,115 INFO SampleTest [main] Открыт каталог
+2022-04-06 09:25:25,345 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 09:25:25,367 INFO SampleTest [main] Показать всё
+2022-04-06 09:25:26,128 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 09:25:26,882 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 09:25:26,976 INFO SampleTest [main] В поиск введен realme
+2022-04-06 09:25:27,693 INFO SampleTest [main] Выбран realme
+2022-04-06 09:25:27,829 INFO SampleTest [main] Сортировка по цене
+2022-04-06 09:32:20,823 INFO SampleTest [main] Телефон Xiaomi добавлен в сравнение
+2022-04-06 09:36:48,939 INFO SampleTest [main] Драйвер поднят
+2022-04-06 09:36:50,103 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 09:37:00,188 INFO SampleTest [main] Открыт каталог
+2022-04-06 09:37:05,341 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 09:37:05,358 INFO SampleTest [main] Показать всё
+2022-04-06 09:37:05,887 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 09:37:06,616 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 09:37:06,705 INFO SampleTest [main] В поиск введен realme
+2022-04-06 09:37:07,435 INFO SampleTest [main] Выбран realme
+2022-04-06 09:37:07,592 INFO SampleTest [main] Сортировка по цене
+2022-04-06 09:37:07,871 INFO SampleTest [main] Телефон Xiaomi добавлен в сравнение
+2022-04-06 09:41:25,865 INFO SampleTest [main] Драйвер поднят
+2022-04-06 09:41:27,050 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 09:41:36,138 INFO SampleTest [main] Открыт каталог
+2022-04-06 09:41:40,626 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 09:42:34,423 INFO SampleTest [main] Драйвер поднят
+2022-04-06 09:42:35,644 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 09:42:42,901 INFO SampleTest [main] Открыт каталог
+2022-04-06 09:42:47,953 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 09:42:47,970 INFO SampleTest [main] Показать всё
+2022-04-06 09:42:48,651 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 09:42:49,389 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 09:42:49,482 INFO SampleTest [main] В поиск введен realme
+2022-04-06 09:42:50,224 INFO SampleTest [main] Выбран realme
+2022-04-06 09:42:50,368 INFO SampleTest [main] Сортировка по цене
+2022-04-06 09:42:50,388 INFO SampleTest [main] Телефон Xiaomi добавлен в сравнение
+2022-04-06 11:24:29,940 INFO SampleTest [main] Драйвер поднят
+2022-04-06 11:24:32,366 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 11:24:32,488 INFO SampleTest [main] Открыт каталог
+2022-04-06 11:24:33,639 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 11:24:45,117 INFO SampleTest [main] Показать всё
+2022-04-06 11:24:45,861 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 11:24:46,608 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 11:24:46,694 INFO SampleTest [main] В поиск введен realme
+2022-04-06 11:24:47,489 INFO SampleTest [main] Выбран realme
+2022-04-06 11:24:47,623 INFO SampleTest [main] Сортировка по цене
+2022-04-06 11:24:58,270 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 11:33:51,634 INFO SampleTest [main] Драйвер поднят
+2022-04-06 11:33:52,799 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 11:34:02,076 INFO SampleTest [main] Открыт каталог
+2022-04-06 11:34:07,475 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 11:34:07,496 INFO SampleTest [main] Показать всё
+2022-04-06 11:34:08,076 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 11:34:08,802 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 11:34:08,885 INFO SampleTest [main] В поиск введен realme
+2022-04-06 11:34:09,588 INFO SampleTest [main] Выбран realme
+2022-04-06 11:34:09,749 INFO SampleTest [main] Сортировка по цене
+2022-04-06 11:34:20,388 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 12:27:20,898 INFO SampleTest [main] Драйвер поднят
+2022-04-06 12:27:23,429 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 12:27:23,532 INFO SampleTest [main] Открыт каталог
+2022-04-06 12:27:24,714 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 12:27:54,403 INFO SampleTest [main] Драйвер поднят
+2022-04-06 12:27:55,614 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 12:28:05,094 INFO SampleTest [main] Открыт каталог
+2022-04-06 12:28:10,318 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 12:28:10,339 INFO SampleTest [main] Показать всё
+2022-04-06 12:28:10,941 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 12:28:11,698 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 12:28:11,791 INFO SampleTest [main] В поиск введен realme
+2022-04-06 12:28:12,487 INFO SampleTest [main] Выбран realme
+2022-04-06 12:28:12,628 INFO SampleTest [main] Сортировка по цене
+2022-04-06 12:28:30,068 INFO SampleTest [main] Телефон Xiaomi добавлен в сравнение
+2022-04-06 12:29:35,782 INFO SampleTest [main] Драйвер поднят
+2022-04-06 12:29:36,979 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 12:29:47,678 INFO SampleTest [main] Открыт каталог
+2022-04-06 12:29:52,079 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 12:29:52,103 INFO SampleTest [main] Показать всё
+2022-04-06 12:29:52,856 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 12:29:53,618 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 12:29:53,709 INFO SampleTest [main] В поиск введен realme
+2022-04-06 12:29:54,447 INFO SampleTest [main] Выбран realme
+2022-04-06 12:29:54,580 INFO SampleTest [main] Сортировка по цене
+2022-04-06 12:29:55,824 INFO SampleTest [main] Телефон Xiaomi добавлен в сравнение
+2022-04-06 12:29:55,843 INFO SampleTest [main] Телефон realme добавлен в сравнение
+2022-04-06 12:29:56,469 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 14:30:14,672 INFO SampleTest [main] Драйвер поднят
+2022-04-06 14:30:17,359 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 14:30:17,439 INFO SampleTest [main] Открыт каталог
+2022-04-06 14:30:18,585 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 14:30:29,213 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 14:30:35,244 INFO SampleTest [main] Драйвер поднят
+2022-04-06 14:30:36,384 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 14:30:45,729 INFO SampleTest [main] Открыт каталог
+2022-04-06 14:30:50,628 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 14:30:50,647 INFO SampleTest [main] Показать всё
+2022-04-06 14:30:51,152 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 14:30:51,901 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 14:30:51,996 INFO SampleTest [main] В поиск введен realme
+2022-04-06 14:30:52,715 INFO SampleTest [main] Выбран realme
+2022-04-06 14:30:52,879 INFO SampleTest [main] Сортировка по цене
+2022-04-06 14:30:53,487 INFO SampleTest [main] Телефон Xiaomi добавлен в сравнение
+2022-04-06 14:30:53,505 INFO SampleTest [main] Телефон realme добавлен в сравнение
+2022-04-06 14:30:54,775 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 14:33:25,720 INFO SampleTest [main] Драйвер поднят
+2022-04-06 14:33:26,867 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 14:33:37,293 INFO SampleTest [main] Открыт каталог
+2022-04-06 14:33:41,231 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 14:33:51,934 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 14:41:38,838 INFO SampleTest [main] Драйвер поднят
+2022-04-06 14:41:39,958 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 14:41:50,736 INFO SampleTest [main] Открыт каталог
+2022-04-06 14:41:55,799 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 14:41:55,813 INFO SampleTest [main] Показать всё
+2022-04-06 14:41:56,463 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 14:41:57,181 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 14:41:57,274 INFO SampleTest [main] В поиск введен realme
+2022-04-06 14:41:57,995 INFO SampleTest [main] Выбран realme
+2022-04-06 14:41:58,130 INFO SampleTest [main] Сортировка по цене
+2022-04-06 14:41:58,829 INFO SampleTest [main] Телефон Xiaomi добавлен в сравнение
+2022-04-06 14:41:58,849 INFO SampleTest [main] Телефон realme добавлен в сравнение
+2022-04-06 14:42:00,085 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 15:31:25,714 INFO SampleTest [main] Драйвер поднят
+2022-04-06 15:31:28,953 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 15:31:29,038 INFO SampleTest [main] Открыт каталог
+2022-04-06 15:31:30,195 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 15:31:41,230 INFO SampleTest [main] Драйвер закрыт
+2022-04-06 15:32:41,842 INFO SampleTest [main] Драйвер поднят
+2022-04-06 15:32:43,030 INFO SampleTest [main] Открыт яндекс маркет
+2022-04-06 15:32:51,695 INFO SampleTest [main] Открыт каталог
+2022-04-06 15:32:56,894 INFO SampleTest [main] Открыта вкладка смартфоны
+2022-04-06 15:32:56,916 INFO SampleTest [main] Показать всё
+2022-04-06 15:32:58,275 INFO SampleTest [main] В поиск введен xiaomi
+2022-04-06 15:32:59,019 INFO SampleTest [main] Выбран xiaomi
+2022-04-06 15:32:59,129 INFO SampleTest [main] В поиск введен realme
+2022-04-06 15:32:59,862 INFO SampleTest [main] Выбран realme
+2022-04-06 15:33:00,010 INFO SampleTest [main] Сортировка по цене
+2022-04-06 15:33:00,716 INFO SampleTest [main] Телефон Xiaomi добавлен в сравнение
+2022-04-06 15:33:00,736 INFO SampleTest [main] Телефон realme добавлен в сравнение
+2022-04-06 15:33:01,969 INFO SampleTest [main] Открыт раздел сравнение
+2022-04-06 15:33:01,987 INFO SampleTest [main] Количество телефонов в разделе сравнение = 2
+2022-04-06 15:33:02,082 INFO SampleTest [main] Нажата кнопка все характеристики
+2022-04-06 15:33:02,104 INFO SampleTest [main] Операционная система появилась в характеристиках
+2022-04-06 15:33:02,147 INFO SampleTest [main] Нажата кнопка различающиеся характеристики
+2022-04-06 15:33:02,147 INFO SampleTest [main] Операционная система исчезла из характеристик
+2022-04-06 15:33:02,769 INFO SampleTest [main] Драйвер закрыт
